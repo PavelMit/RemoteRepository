@@ -1,5 +1,7 @@
 # Second seminar. Branches
 
+Проверка 2
+
 ## Создание веток
 
 * *git checkout branch_name* - команда, осуществляющая переход на ветку branch_name 
