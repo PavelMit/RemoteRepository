@@ -10,4 +10,8 @@
 
 ## Слияние веток 
 
+* *git merge branch_name* - команда, сливающая текущую ветку с веткой *branch_name*;
+
+* *git branch -d branch_name* - команда, удаляющая ветку *branch_name*
+
 ## Конфликты
